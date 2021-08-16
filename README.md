@@ -1,5 +1,7 @@
 # Hello There!
 
+<p align="left"> <img src="https://i.imgur.com/WMPIt4l.png" alt="primitt" /> </p>
+
 ### About me:
 
 - Name: Priansh Mittra
