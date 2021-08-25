@@ -17,7 +17,7 @@
 - Reddit: <a href="https://reddit.com/u/primitt" target="_blank">@primitt</a>
 
 
-### Go review Duino-Stats Mini
+### Review Duino-Stats Mini:
 Originally by: primitt
 
 
