@@ -34,4 +34,6 @@ Improved (a lot) by: [revoxhere](https://github.com/revoxhere)
 
 
 
+
+[![Donate NIM](https://www.nimiq.com/accept-donations/img/donationBtnImg/light-blue-small.svg)](https://wallet.nimiq.com/nimiq:NQ88Q9ME470X8KY8HXQGJ96N6FHR8G0BEDMH)
 [![Discord Bots](https://top.gg/api/widget/876506340112076801.svg)](https://top.gg/bot/876506340112076801)
