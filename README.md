@@ -1,10 +1,7 @@
 # Hello There!
 
-<p align="left"> <img src="https://i.imgur.com/u6hszMA.png" alt="primitt" /> </p>
 
 ### About me:
-
-- Name: Priansh Mittra
 - Age 13.6
 - I am a social manager for [Duino-Coin](https://duinocoin.com)
 - I know a bit of programming, but im not so good at it
