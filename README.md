@@ -1,8 +1,7 @@
 # Hello There!
 
 
-### About me:
-- Age 13.6
+
 - I am a social manager for [Duino-Coin](https://duinocoin.com)
 - I know a bit of programming, but im not so good at it
 
