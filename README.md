@@ -12,8 +12,8 @@
 
 ### Links:
 - Twitter: <a href="https://twitter.com/DuinoCoin" target="_blank">@DuinoCoin</a>
-- Reddit: <a href="https://reddit.com/u/primitt" target="_blank">@primitt</a>
 - Other Twitter: <a href="https://twitter.com/primitt" target="_blank">@primitt</a>
+- Reddit: <a href="https://reddit.com/u/primitt" target="_blank">@primitt</a>
 
 
 ### Review Duino-Stats Mini:
