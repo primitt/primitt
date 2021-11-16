@@ -9,6 +9,8 @@
 - HTML
 - CSS
 - Small Bit of Java
+- NodeJs
+- Dart
 
 ### Links:
 - Twitter: <a href="https://twitter.com/DuinoCoin" target="_blank">@DuinoCoin</a>
