@@ -23,6 +23,9 @@ Originally by: primitt
 Improved (a lot) by: [revoxhere](https://github.com/revoxhere)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Primitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=primitt)](https://github.com/anuraghazra/github-readme-stats)
 
 
