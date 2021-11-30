@@ -2,6 +2,7 @@
 
 
 - I am a social manager for [Duino-Coin](https://duinocoin.com)
+- I am a front-end developer for [Avian](https://avn.network)
 - I know a bit of programming, but im not so good at it
 
 ### Programming Languages:
