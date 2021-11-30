@@ -23,6 +23,9 @@ Originally by: primitt
 Improved (a lot) by: [revoxhere](https://github.com/revoxhere)
 
 
+[![Primitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=primitt)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
