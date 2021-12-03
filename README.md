@@ -12,6 +12,7 @@
 - Small Bit of Java
 - NodeJs
 - Dart
+- C++
 
 ### Links:
 - Twitter: <a href="https://twitter.com/DuinoCoin" target="_blank">@DuinoCoin</a>
