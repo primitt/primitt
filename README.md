@@ -1,11 +1,11 @@
 # Hello There!
-- 👨‍💻I am a developer at [Avian Network](https://avn.network) 
+- 👨‍💻 I am a developer at [Avian Network](https://avn.network) 
 
 ### Programming Languages:
 - Python
 - HTML
 - CSS
-- NodeJs
+- NodeJs/JS DOM
 - C++
 
 ### Links:
