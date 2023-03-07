@@ -1,5 +1,5 @@
 # Hello There!
-- 👨‍💻 I am a developer at [Avian Network](https://avn.network) 
+- Hello, I am a Jr. Mentor at Bytes And Bots
 - I mainly do python, and build websites with flask/django! 
 
 (Many of my repo's are private as there are some database keys and such in there. ENV Varables are hard to use when switching computers often)
