@@ -2,7 +2,6 @@
 
 ### Links:
 - Twitter: <a href="https://twitter.com/primitt" target="_blank">@primitt</a>
-- Reddit: <a href="https://reddit.com/u/primitt" target="_blank">@primitt</a>
 - Website: <a href="https://primitt.dev">primitt.dev</a>
 
 # 
