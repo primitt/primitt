@@ -3,5 +3,4 @@
 
 I write code, not bios.
 
-https://primitt.dev
 
