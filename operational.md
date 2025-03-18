@@ -36,3 +36,6 @@ Contributor - Helped with aspects of a website (<20% and >5% individual contribu
 ➖ - Mostly working however not currently hosted by any organization or individually.<br>
 ✖️ - Untested since deprecation. It may or may not work. It is not recommended to use it in any way.<br>
 
+(deprecated) - Code has been deprecated. No updates nor is the website hosted anywhere.<br>
+(not hosted by ________) - Code most likely works, however, it is not hosted and must be self-hosted by the client. <br>
+URL Given - The project is available to view online or has a download page. 
